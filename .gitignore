@@ -3,3 +3,5 @@
 __pycache__
 app.log
 chroma_db/
+complaints.txt
+reservations.txt
